@@ -1,6 +1,6 @@
 # react-native-one-hand — example app
 
-Demo app for [`react-native-one-hand`](https://github.com/Filipmok-agh/react-native-one-hand) — a library that scales the
+Demo app for [`react-native-one-hand`](https://github.com/filip-mok/react-native-one-hand) — a library that scales the
 **entire app**, including native modals, alerts and third-party overlays, into a bottom
 corner so everything stays reachable with one thumb. This app is a playground of surfaces
 worth watching while docked: native overlays, system pickers, gestures and animations.
